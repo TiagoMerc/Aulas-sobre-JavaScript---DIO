@@ -41,3 +41,36 @@
 - Verificar palíndromo
 
 - Substituir números pares
+
+#### Funções
+Tipos de função
+
+- Apresentação do curso
+
+- Estrutura e Função anônima
+
+- Função autoinvocável e Callbacks
+
+Parâmetros
+
+- Valores padrão e Objeto "arguments"
+
+- Arrays e Objetos
+
+Loops
+- If/else e Switch
+
+- For e While
+
+This
+
+- O que é This
+
+- Manipulando seu valor
+
+Arrow Functions
+
+- Sintaxe e outras restrições
+
+- Atividade prática
+
