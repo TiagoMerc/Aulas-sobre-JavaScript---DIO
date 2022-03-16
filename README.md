@@ -74,3 +74,16 @@ Arrow Functions
 
 - Atividade prática
 
+#### Coleções
+
+Map
+- Apresentação do curso
+
+- Estrutura, Métodos e Map vs Objeto
+
+Set 
+
+- Estrutura, Métodos e Set vs Array
+
+- Atividade prática
+
