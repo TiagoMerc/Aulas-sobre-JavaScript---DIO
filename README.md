@@ -87,3 +87,20 @@ Set
 
 - Atividade prática
 
+#### Debugging e Error Handling
+
+Tipos de erros
+
+- Apresentação do curso
+
+- ECMAScript Error e DOMException
+
+Tratando de erros
+
+- Throw, Try/Catch e Finally
+
+Criando erros
+
+- O objeto Error
+
+- Atividade prática
