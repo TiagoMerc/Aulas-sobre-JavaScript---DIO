@@ -132,3 +132,24 @@ Compreendendo Orientação a Objetos
 - Protótipos e Classes
 
 - Atividade prática
+
+#### Map, Filter e Reduce 
+Filter e Sintaxe
+
+- Apresentação do curso
+
+- O que é, Sintaxe e Map vs forEach
+
+Filter
+
+- Filter e Sintaxe
+
+Reduce
+
+- Reduce e Sintaxe
+
+Na prática - Parte 1
+Na prática - Parte 2
+Na prática - Parte 3
+Na prática - Parte 4
+Certifique seu conhecimento
