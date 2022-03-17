@@ -104,3 +104,19 @@ Criando erros
 - O objeto Error
 
 - Atividade prática
+
+
+#### Javascript Assíncrono
+
+Assincronicidade
+
+- Apresentação do curso
+
+- Definição, Promises e Async/Await
+
+Consumindo APIs
+
+- O que são APIs e Fetch
+
+- Atividade prática
+
