@@ -120,3 +120,15 @@ Consumindo APIs
 
 - Atividade prática
 
+
+#### Orientação a objetos
+
+Compreendendo Orientação a Objetos
+
+- Apresentação do curso
+
+- Paradigmas e Pilares
+
+- Protótipos e Classes
+
+- Atividade prática
