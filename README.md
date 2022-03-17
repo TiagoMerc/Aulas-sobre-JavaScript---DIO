@@ -148,8 +148,10 @@ Reduce
 
 - Reduce e Sintaxe
 
-Na prática - Parte 1
-Na prática - Parte 2
-Na prática - Parte 3
-Na prática - Parte 4
-Certifique seu conhecimento
+- Na prática - Parte 1
+
+- Na prática - Parte 2
+
+- Na prática - Parte 3
+
+- Na prática - Parte 4
