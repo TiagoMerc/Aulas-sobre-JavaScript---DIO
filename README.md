@@ -155,3 +155,22 @@ Reduce
 - Na prática - Parte 3
 
 - Na prática - Parte 4
+
+#### Manipulando a D.O.M. com JavaScript
+Entendendo o D.O.M.
+
+- Apresentação do curso
+
+- O que é D.O.M. e D.O.M vs B.O.M.
+
+Selecionando elementos
+
+- Métodos
+
+Trabalhando com estilos
+
+Eventos
+
+- Tipos e Acionando eventos
+
+- Atividade prática
